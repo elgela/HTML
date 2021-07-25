@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Tarea HTML de Marcelo</title>
+    <style>
+        
+    </style>
+    </head>       
+    <body>
+        1<div class="divClass">
+            <h1 style="color:blueviolet">Marcelo</h1>
+            <h3>Henry</h3>
+            <h4>tarea de HTML / CSS</h4>
+        </div>
+        2<div class="divClass">
+            <span Id=spanId>Mi comida favorita es la pizza integral</span>
+                <spanId style="margin: 50px; font-size: 18px;">
+            <a>https://10619-2.s.cdn12.com/rests/original/107_500127068.jpg</a>
+         </div>   
+        3<div id="thirdDiv"> 
+            <thirdDiv style="height: 600px; width: 500px; background-color: red; padding: 50px; border-color: darkcyan"></thirdDiv>
+            <ul>
+                <li>
+                    <p>Queso</p><img src=https://mammabella.com.mx/wp-content/uploads/2018/04/rallado_2-5lb-e1523471236232-768x416.png/>
+                                        <img style="width:400px">
+                    <p>Pizza</p><img src=https://www.cocinatis.com/media/photologue/photos/cache/CTIS0505-receta-masa-de-pizza-casera-integral_desktop_horizontal_full_width.jpg/>
+                                        <img style="width:400px">
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>       
